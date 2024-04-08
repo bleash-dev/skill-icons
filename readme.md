@@ -277,6 +277,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `spring`      |    <img src="./icons/Spring-Dark.svg" width="48">     |
 |      `sqlite`      |       <img src="./icons/SQLite.svg" width="48">       |
 |  `stackoverflow`   | <img src="./icons/StackOverflow-Dark.svg" width="48"> |
+|    `storybook`     |    <img src="./icons/StoryBook-Dark.svg" width="48">  |
 | `styledcomponents` |  <img src="./icons/StyledComponents.svg" width="48">  |
 |     `sublime`      |    <img src="./icons/Sublime-Dark.svg" width="48">    |
 |     `supabase`     |   <img src="./icons/Supabase-Dark.svg" width="48">    |
