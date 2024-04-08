@@ -261,6 +261,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `react`       |     <img src="./icons/React-Dark.svg" width="48">     |
 |    `reactivex`     |   <img src="./icons/ReactiveX-Dark.svg" width="48">   |
 |    `reactquery`    |  <img src="./icons/ReactQuery-Dark.svg" width="48">   |
+|      `recoil`      |       <img src="./icons/Recoil.svg" width="48">       |
 |      `redhat`      |    <img src="./icons/RedHat-Dark.svg" width="48">     |
 |      `redis`       |     <img src="./icons/Redis-Dark.svg" width="48">     |
 |      `redux`       |       <img src="./icons/Redux.svg" width="48">        |
