@@ -158,7 +158,11 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `eclipse`      |    <img src="./icons/Eclipse-Dark.svg" width="48">    |
 |  `elasticsearch`   | <img src="./icons/Elasticsearch-Dark.svg" width="48"> |
 |     `electron`     |      <img src="./icons/Electron.svg" width="48">      |
+<<<<<<< HEAD
 |  `elasticsearch`   |      <img src="./icons/ElasticSearch.svg" width="48"> |
+=======
+|    `elementplus`   |    <img src="./icons/Element-Plus-Dark.svg" width="48">    |
+>>>>>>> b6c305ffdefa49ae548a94f5d0493a6a53cecccb
 |      `elixir`      |    <img src="./icons/Elixir-Dark.svg" width="48">     |
 |      `elysia`      |    <img src="./icons/Elysia-Dark.svg" width="48">     |
 |      `emacs`       |       <img src="./icons/Emacs.svg" width="48">        |
@@ -331,7 +335,11 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `sqlite`      |       <img src="./icons/SQLite.svg" width="48">       |
 |  `stackoverflow`   | <img src="./icons/StackOverflow-Dark.svg" width="48"> |
 | `styledcomponents` |  <img src="./icons/StyledComponents.svg" width="48">  |
+<<<<<<< HEAD
 |     `sublime`      |    <img src="./icons/Sublime-Dark.svg" width="48">    |
+=======
+|    `storybook`     |      <img src="./icons/Storybook-Dark.svg" width="48">     |
+>>>>>>> b6c305ffdefa49ae548a94f5d0493a6a53cecccb
 |     `supabase`     |   <img src="./icons/Supabase-Dark.svg" width="48">    |
 |      `scala`       |     <img src="./icons/Scala-Dark.svg" width="48">     |
 |     `sklearn`      |  <img src="./icons/ScikitLearn-Dark.svg" width="48">  |
