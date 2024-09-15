@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256px" height="256px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -13,4 +14,23 @@
 <g><path style="opacity:1" fill="#fd2cf1" d="M 134.5,135.5 C 142.507,135.334 150.507,135.5 158.5,136C 159.482,143.747 159.815,151.58 159.5,159.5C 151.167,159.5 142.833,159.5 134.5,159.5C 134.5,151.5 134.5,143.5 134.5,135.5 Z"/></g>
 <g><path style="opacity:1" fill="#6c54cf" d="M 135.5,174.5 C 135.5,190.833 135.5,207.167 135.5,223.5C 143.167,223.5 150.833,223.5 158.5,223.5C 150.684,224.492 142.684,224.826 134.5,224.5C 134.17,207.658 134.503,190.992 135.5,174.5 Z"/></g>
 <g><path style="opacity:1" fill="#3312c4" d="M 135.5,174.5 C 143.167,174.5 150.833,174.5 158.5,174.5C 158.5,190.833 158.5,207.167 158.5,223.5C 150.833,223.5 143.167,223.5 135.5,223.5C 135.5,207.167 135.5,190.833 135.5,174.5 Z"/></g>
+=======
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_220_191)">
+<path d="M196 0H60C26.8629 0 0 26.8629 0 60V196C0 229.137 26.8629 256 60 256H196C229.137 256 256 229.137 256 196V60C256 26.8629 229.137 0 196 0Z" fill="#F4F2ED"/>
+<path d="M122.403 40.7047H100.764V85.6369H122.403V40.7047Z" fill="#130754"/>
+<path d="M122.403 133.003H100.764V177.936H122.403V133.003Z" fill="#130754"/>
+<path d="M122.403 98.7518H100.764V119.951H122.403V98.7518Z" fill="#FFCA00"/>
+<path d="M87.6397 77.6422H66V227H87.6397V77.6422Z" fill="#130754"/>
+<path d="M156.448 170.076H134.809V215.008H156.448V170.076Z" fill="#130754"/>
+<path d="M156.448 77.696H134.809V122.628H156.448V77.696Z" fill="#130754"/>
+<path d="M156.448 135.752H134.809V156.952H156.448V135.752Z" fill="#E70488"/>
+<path d="M190.484 29H168.845V178.358H190.484V29Z" fill="#130754"/>
+</g>
+<defs>
+<clipPath id="clip0_220_191">
+<rect width="256" height="256" fill="white"/>
+</clipPath>
+</defs>
+>>>>>>> e1b59901de159213175df05d3ab8a40b9ed15c24
 </svg>
