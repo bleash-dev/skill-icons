@@ -127,6 +127,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `cpp`        |        <img src="./icons/CPP.svg" width="48">         |
 |      `chai`        |    <img src="./icons/Chai-Dark.svg" width="48">       |
 |     `chart`        |   <img src="./icons/ChartJS-Dark.svg" width="48">     |
+|      `centos`      |       <img src="./icons/Centos.svg" width="48">       |
 |     `crystal`      |    <img src="./icons/Crystal-Dark.svg" width="48">    |
 |      `canva`       |        <img src="./icons/Canva.svg" width="48">       |
 |    `cassandra`     |   <img src="./icons/Cassandra-Dark.svg" width="48">   |
@@ -167,6 +168,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `express`      |   <img src="./icons/ExpressJS-Dark.svg" width="48">   |
 |     `fastapi`      |      <img src="./icons/FastAPI.svg" width="48">       |
 |    `fediverse`     |   <img src="./icons/Fediverse-Dark.svg" width="48">   |
+|      `fedora`      |       <img src="./icons/Fedora.svg" width="48">       |
 |      `figma`       |     <img src="./icons/Figma-Dark.svg" width="48">     |
 |     `firebase`     |   <img src="./icons/Firebase-Dark.svg" width="48">    |
 |      `flask`       |     <img src="./icons/Flask-Dark.svg" width="48">     |
@@ -203,6 +205,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `html`       |        <img src="./icons/HTML.svg" width="48">        |
 |       `htmx`       |     <img src="./icons/Htmx-Dark.svg" width="48">      |
 |       `idea`       |     <img src="./icons/Idea-Dark.svg" width="48">      |
+|       `ionic`       |     <img src="./icons/Ionic.svg" width="48">      |
 |        `ai`        |    <img src="./icons/Illustrator.svg" width="48">     |
 |    `instagram`     |     <img src="./icons/Instagram.svg" width="48">      |
 |       `ionic `     |     <img src="./icons/Ionic.svg" width="48">          |
@@ -210,6 +213,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `ionic`       |    <img src="./icons/Ionic-Dark.svg" width="48">      |
 |       `ipfs`       |     <img src="./icons/IPFS-Dark.svg" width="48">      |
 |       `java`       |     <img src="./icons/Java-Dark.svg" width="48">      |
+|      `joomla`      |       <img src="./icons/Joomla.svg" width="48">       |
 |        `js`        |     <img src="./icons/JavaScript.svg" width="48">     |
 |      `jekyll`      |    <img src="./icons/Jekyll-Dark.svg" width="48">     |
 |     `jenkins`      |    <img src="./icons/Jenkins-Dark.svg" width="48">    |
@@ -282,6 +286,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `postman`      |      <img src="./icons/Postman.svg" width="48">       |
 |    `powershell`    |  <img src="./icons/Powershell-Dark.svg" width="48">   |
 |        `pr`        |      <img src="./icons/Premiere.svg" width="48">      |
+|    `prestashop`    |     <img src="./icons/prestashop.svg" width="48">     |
 |      `prisma`      |       <img src="./icons/Prisma.svg" width="48">       |
 |    `processing`    |  <img src="./icons/Processing-Dark.svg" width="48">   |
 |    `prometheus`    |     <img src="./icons/Prometheus.svg" width="48">     |
@@ -352,6 +357,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `trello`      |       <img src="./icons/Trello.svg" width="48">       |
 |        `ts`        |     <img src="./icons/TypeScript.svg" width="48">     |
 |      `ubuntu`      |     <img src="./icons/Ubuntu-Dark.svg" width="48">    |
+|      `ubuntu`      |       <img src="./icons/Ubuntu.svg" width="48">       |
 |      `unity`       |     <img src="./icons/Unity-Dark.svg" width="48">     |
 |      `unreal`      |    <img src="./icons/UnrealEngine.svg" width="48">    |
 |        `v`         |       <img src="./icons/V-Dark.svg" width="48">       |
