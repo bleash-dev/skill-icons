@@ -9,12 +9,14 @@
 
 # Docs
 
+- [Docs](#docs)
 - [Example](#example)
 - [Specifying Icons](#specifying-icons)
 - [Themed Icons](#themed-icons)
 - [Icons Per Line](#icons-per-line)
 - [Centering Icons](#centering-icons)
 - [Icons List](#icons-list)
+  - [💖 Support the Project](#-support-the-project)
 
 # Example
 
@@ -149,6 +151,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `emacs`       |       <img src="./icons/Emacs.svg" width="48">        |
 |      `ember`       |       <img src="./icons/Ember.svg" width="48">        |
 |     `emotion`      |    <img src="./icons/Emotion-Dark.svg" width="48">    |
+|      `expo`        |      <img src="./icons/Expo-Dark.svg" width="48">     |
 |     `express`      |   <img src="./icons/ExpressJS-Dark.svg" width="48">   |
 |     `fastapi`      |      <img src="./icons/FastAPI.svg" width="48">       |
 |    `fediverse`     |   <img src="./icons/Fediverse-Dark.svg" width="48">   |
@@ -229,6 +232,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `openshift`     |     <img src="./icons/OpenShift.svg" width="48">      |
 |    `openstack`     |   <img src="./icons/OpenStack-Dark.svg" width="48">   |
 |       `p5js`       |        <img src="./icons/p5js.svg" width="48">        |
+|      `pandas`      |       <img src="./icons/Pandas.svg" width="48">       |
 |       `perl`       |        <img src="./icons/Perl.svg" width="48">        |
 |        `ps`        |     <img src="./icons/Photoshop.svg" width="48">      |
 |       `php`        |      <img src="./icons/PHP-Dark.svg" width="48">      |
@@ -247,6 +251,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `prometheus`    |     <img src="./icons/Prometheus.svg" width="48">     |
 |       `pug`        |      <img src="./icons/Pug-Dark.svg" width="48">      |
 |     `pycharm`      |    <img src="./icons/PyCharm-Dark.svg" width="48">    |
+|    `puppeteer`     |      <img src="./icons/Puppeteer.svg" width="48">     |
 |        `py`        |    <img src="./icons/Python-Dark.svg" width="48">     |
 |     `pytorch`      |    <img src="./icons/PyTorch-Dark.svg" width="48">    |
 |        `qt`        |      <img src="./icons/QT-Dark.svg" width="48">       |
@@ -270,6 +275,11 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `ruby`       |        <img src="./icons/Ruby.svg" width="48">        |
 |       `rust`       |        <img src="./icons/Rust.svg" width="48">        |
 |       `sass`       |        <img src="./icons/Sass.svg" width="48">        |
+|      `scala`       |     <img src="./icons/Scala-Dark.svg" width="48">     |
+|      `scikit`      |     <img src="./icons/ScikitLearn.svg" width="48">    |
+|     `selenium`     |      <img src="./icons/Selenium.svg" width="48">      |
+|     `sketchup`     |   <img src="./icons/Sketchup-Dark.svg" width="48">    |
+|     `solidity`     |      <img src="./icons/Solidity.svg" width="48">      |
 |      `spring`      |    <img src="./icons/Spring-Dark.svg" width="48">     |
 |      `sqlite`      |       <img src="./icons/SQLite.svg" width="48">       |
 |  `stackoverflow`   | <img src="./icons/StackOverflow-Dark.svg" width="48"> |
