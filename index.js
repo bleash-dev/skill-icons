@@ -47,6 +47,7 @@ const shortNames = {
   fcad: 'freecad',
   id: 'indesign',
   sklearn: 'scikitlearn',
+  vb: 'vb'
   preact: 'preact',
   ml5: 'ml5',
   hydrogen: 'hydrogen',
