@@ -47,6 +47,7 @@ const shortNames = {
   fcad: 'freecad',
   id: 'indesign',
   sklearn: 'scikitlearn',
+<<<<<<< HEAD
   es: 'elasticsearch',
   gas: 'googleappsscript',
 =======
@@ -58,6 +59,9 @@ const shortNames = {
   slack: 'slack',
   x: 'x',
 >>>>>>> cea92a2a7aead5195146fa293c79c2471c6281f7
+=======
+  shopify: 'shopify',
+>>>>>>> b41d94bb8ddc05e80ccd636eeb4259abc5d09910
 };
 const themedIcons = [
   ...Object.keys(icons)
