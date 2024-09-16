@@ -86,7 +86,7 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
 
 |      Icon ID       |                         Icon                          |
-|:------------------:|:-----------------------------------------------------:|
+| :----------------: | :---------------------------------------------------: |
 |     `ableton`      |    <img src="./icons/Ableton-Dark.svg" width="48">    |
 |   `activitypub`    |  <img src="./icons/ActivityPub-Dark.svg" width="48">  |
 |      `actix`       |     <img src="./icons/Actix-Dark.svg" width="48">     |
@@ -143,7 +143,6 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `couchdb`      |   <img src="./icons/CouchDB-Dark.svg" width="48">     |
 |        `d3`        |      <img src="./icons/D3-Dark.svg" width="48">       |
 |       `dart`       |     <img src="./icons/Dart-Dark.svg" width="48">      |
-|     `daisyui`      |   <img src="./icons/Daisyui-Dark.svg" width="48">     |
 |      `debian`      |    <img src="./icons/Debian-Dark.svg" width="48">     |
 |       `deno`       |     <img src="./icons/DENO-Dark.svg" width="48">      |
 |      `devto`       |     <img src="./icons/DevTo-Dark.svg" width="48">     |
@@ -189,6 +188,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `gherkin`      |    <img src="./icons/Gherkin-Dark.svg" width="48">    |
 |      `gmail`       |    <img src="./icons/Gmail.svg" width="48">           |
 |        `go`        |       <img src="./icons/GoLang.svg" width="48">       |
+|      `goland`      |    <img src="./icons/GoLand-Dark.svg" width="48">     |
 |       `gas`        |<img src="./icons/GoogleAppsScript-Dark.svg" width="48">|
 |      `gradle`      |    <img src="./icons/Gradle-Dark.svg" width="48">     |
 |      `godot`       |     <img src="./icons/Godot-Dark.svg" width="48">     |
@@ -206,7 +206,6 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `hibernate`     |   <img src="./icons/Hibernate-Dark.svg" width="48">   |
 |       `html`       |        <img src="./icons/HTML.svg" width="48">        |
 |       `htmx`       |     <img src="./icons/Htmx-Dark.svg" width="48">      |
-|     `hydrogen`     |     <img src="./icons/hydrogen-Dark.svg" width="48">  |
 |       `idea`       |     <img src="./icons/Idea-Dark.svg" width="48">      |
 |       `ionic`       |     <img src="./icons/Ionic.svg" width="48">      |
 |        `ai`        |    <img src="./icons/Illustrator.svg" width="48">     |
@@ -248,11 +247,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `maven`       |     <img src="./icons/Maven-Dark.svg" width="48">     |
 |     `meteor`       |    <img src="./icons/Meteor-Dark.svg" width="48">     |
 |     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
-<<<<<<< HEAD
 |      `mocha`       |      <img src="./icons/Mocha-Dark.svg" width="48">    |
-=======
-|     `ml5`      |    <img src="./icons/ML5-Dark.svg" width="48">    |
->>>>>>> 3d3bd74e9f9754f398a037fb0e2900d8032ee20f
 |     `mongodb`      |      <img src="./icons/MongoDB.svg" width="48">       |
 |      `mysql`       |     <img src="./icons/MySQL-Dark.svg" width="48">     |
 |      `numpy`       |   <img src="./icons/Numpy-Dark.svg" width="48">       |
@@ -293,11 +288,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `postman`      |      <img src="./icons/Postman.svg" width="48">       |
 |    `powershell`    |  <img src="./icons/Powershell-Dark.svg" width="48">   |
 |        `pr`        |      <img src="./icons/Premiere.svg" width="48">      |
-<<<<<<< HEAD
 |    `prestashop`    |     <img src="./icons/prestashop.svg" width="48">     |
-=======
-|      `preact`      |      <img src="./icons/preact-Dark.svg" width="48">      |
->>>>>>> 3d3bd74e9f9754f398a037fb0e2900d8032ee20f
 |      `prisma`      |       <img src="./icons/Prisma.svg" width="48">       |
 |    `processing`    |  <img src="./icons/Processing-Dark.svg" width="48">   |
 |    `prometheus`    |     <img src="./icons/Prometheus.svg" width="48">     |
@@ -397,7 +388,6 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `yarn`       |      <img src="./icons/Yarn-Dark.svg" width="48">     |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
 |        `es`        | <img src="./icons/Elasticsearch-Dark.svg" width="48"> |
-|       `shopify`    |  <img src="./icons/Shopify-Dark.svg" width="48">      |
 
 ---
 
