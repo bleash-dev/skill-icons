@@ -304,6 +304,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `pkl`        |      <img src="./icons/Pkl-Dark.svg" width="48">      |
 |      `plan9`       |     <img src="./icons/Plan9-Dark.svg" width="48">     |
 |   `planetscale`    |  <img src="./icons/PlanetScale-Dark.svg" width="48">  |
+|    `playwright`    |   <img src="./icons/PlayWright-Dark.svg" width="48">  |
 |       `pnpm`       |     <img src="./icons/Pnpm-Dark.svg" width="48">      |
 |     `postgres`     |  <img src="./icons/PostgreSQL-Dark.svg" width="48">   |
 |     `postman`      |      <img src="./icons/Postman.svg" width="48">       |
@@ -314,6 +315,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `processing`    |  <img src="./icons/Processing-Dark.svg" width="48">   |
 |    `prometheus`    |     <img src="./icons/Prometheus.svg" width="48">     |
 |       `pug`        |      <img src="./icons/Pug-Dark.svg" width="48">      |
+|    `puppeteer`     |   <img src="./icons/Puppeteer-Dark.svg" width="48">   |
 |     `pycharm`      |    <img src="./icons/PyCharm-Dark.svg" width="48">    |
 |    `puppeteer`     |      <img src="./icons/Puppeteer.svg" width="48">     |
 |      `putty`       |     <img src="./icons/Putty-Dark.svg" width="48">     |
@@ -329,6 +331,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |   `raspberrypi`    |  <img src="./icons/RaspberryPi-Dark.svg" width="48">  |
 |      `react`       |     <img src="./icons/React-Dark.svg" width="48">     |
 |    `reactivex`     |   <img src="./icons/ReactiveX-Dark.svg" width="48">   |
+|    `reactquery`    |  <img src="./icons/ReactQuery-Dark.svg" width="48">   |
+|      `recoil`      |       <img src="./icons/Recoil.svg" width="48">       |
 |      `redhat`      |    <img src="./icons/RedHat-Dark.svg" width="48">     |
 |      `redis`       |     <img src="./icons/Redis-Dark.svg" width="48">     |
 |      `redux`       |       <img src="./icons/Redux.svg" width="48">        |
@@ -353,7 +357,11 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `spyder`       |    <img src="./icons/Spyder.svg" width="48">          |
 |      `sqlite`      |       <img src="./icons/SQLite.svg" width="48">       |
 |  `stackoverflow`   | <img src="./icons/StackOverflow-Dark.svg" width="48"> |
+<<<<<<< HEAD
 |    `streamlit`     |   <img src="./icons/Streamlit-Dark.svg" width="48">   |
+=======
+|    `storybook`     |    <img src="./icons/StoryBook-Dark.svg" width="48">  |
+>>>>>>> d8db37795f4578304c67e4f17d5549871c2c2246
 | `styledcomponents` |  <img src="./icons/StyledComponents.svg" width="48">  |
 |     `sublime`      |    <img src="./icons/Sublime-Dark.svg" width="48">    |
 |    `storybook`     |      <img src="./icons/Storybook-Dark.svg" width="48">     |
@@ -375,6 +383,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `symfony`      |    <img src="./icons/Symfony-Dark.svg" width="48">    |
 |     `tailwind`     |  <img src="./icons/TailwindCSS-Dark.svg" width="48">  |
 |      `tauri`       |     <img src="./icons/Tauri-Dark.svg" width="48">     |
+|  `testinglibrary`  | <img src="./icons/TestingLibrary-Dark.svg" width="48">|
 |    `tensorflow`    |  <img src="./icons/TensorFlow-Dark.svg" width="48">   |
 |    `terraform`     |   <img src="./icons/Terraform-Dark.svg" width="48">   |
 |     `threejs`      |    <img src="./icons/ThreeJS-Dark.svg" width="48">    |
