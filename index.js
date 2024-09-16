@@ -42,12 +42,22 @@ const shortNames = {
   rxjs: 'reactivex',
   rxjava: 'reactivex',
   ghactions: 'githubactions',
+<<<<<<< HEAD
   bulma: 'bulmacss',
   fcad: 'freecad',
   id: 'indesign',
   sklearn: 'scikitlearn',
   es: 'elasticsearch',
   gas: 'googleappsscript',
+=======
+  cy: 'cypress',
+  in: 'indesign',
+  jira: 'jira',
+  npm: 'npm',
+  pinia: 'pinia',
+  slack: 'slack',
+  x: 'x',
+>>>>>>> cea92a2a7aead5195146fa293c79c2471c6281f7
 };
 const themedIcons = [
   ...Object.keys(icons)
