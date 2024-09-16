@@ -108,6 +108,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `au`        |      <img src="./icons/Audition.svg" width="48">      |
 |     `autocad`      |    <img src="./icons/AutoCAD-Dark.svg" width="48">    |
 |       `aws`        |      <img src="./icons/AWS-Dark.svg" width="48">      |
+|       `axos`        |      <img src="./icons/AxOS-dark.svg" width="48">      |
 |       `azul`       |        <img src="./icons/Azul.svg" width="48">        |
 |      `azure`       |     <img src="./icons/Azure-Dark.svg" width="48">     |
 |      `babel`       |       <img src="./icons/Babel.svg" width="48">        |
