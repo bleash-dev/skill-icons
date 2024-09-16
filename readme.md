@@ -205,6 +205,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `hibernate`     |   <img src="./icons/Hibernate-Dark.svg" width="48">   |
 |       `html`       |        <img src="./icons/HTML.svg" width="48">        |
 |       `htmx`       |     <img src="./icons/Htmx-Dark.svg" width="48">      |
+|     `hydrogen`     |     <img src="./icons/hydrogen-Dark.svg" width="48">  |
 |       `idea`       |     <img src="./icons/Idea-Dark.svg" width="48">      |
 |       `ionic`       |     <img src="./icons/Ionic.svg" width="48">      |
 |        `ai`        |    <img src="./icons/Illustrator.svg" width="48">     |
@@ -246,7 +247,11 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `maven`       |     <img src="./icons/Maven-Dark.svg" width="48">     |
 |     `meteor`       |    <img src="./icons/Meteor-Dark.svg" width="48">     |
 |     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
+<<<<<<< HEAD
 |      `mocha`       |      <img src="./icons/Mocha-Dark.svg" width="48">    |
+=======
+|     `ml5`      |    <img src="./icons/ML5-Dark.svg" width="48">    |
+>>>>>>> 3d3bd74e9f9754f398a037fb0e2900d8032ee20f
 |     `mongodb`      |      <img src="./icons/MongoDB.svg" width="48">       |
 |      `mysql`       |     <img src="./icons/MySQL-Dark.svg" width="48">     |
 |      `numpy`       |   <img src="./icons/Numpy-Dark.svg" width="48">       |
@@ -287,7 +292,11 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `postman`      |      <img src="./icons/Postman.svg" width="48">       |
 |    `powershell`    |  <img src="./icons/Powershell-Dark.svg" width="48">   |
 |        `pr`        |      <img src="./icons/Premiere.svg" width="48">      |
+<<<<<<< HEAD
 |    `prestashop`    |     <img src="./icons/prestashop.svg" width="48">     |
+=======
+|      `preact`      |      <img src="./icons/preact-Dark.svg" width="48">      |
+>>>>>>> 3d3bd74e9f9754f398a037fb0e2900d8032ee20f
 |      `prisma`      |       <img src="./icons/Prisma.svg" width="48">       |
 |    `processing`    |  <img src="./icons/Processing-Dark.svg" width="48">   |
 |    `prometheus`    |     <img src="./icons/Prometheus.svg" width="48">     |
