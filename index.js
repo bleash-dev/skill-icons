@@ -48,6 +48,12 @@ const shortNames = {
   fcad: 'freecad',
   id: 'indesign',
   sklearn: 'scikitlearn',
+  gr : 'gradio',
+  st : 'streamlit',
+  np : 'numpy',
+  pd : 'pandas',
+  plt : 'matplotlib',
+  langchain : 'langchain',
   vb: 'vb'
   preact: 'preact',
   ml5: 'ml5',
