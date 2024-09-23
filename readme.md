@@ -23,7 +23,6 @@
 
 <br><br>
 
-<<<<<<< HEAD
 - [Docs](#docs)
 - [Example](#example)
 - [Specifying Icons](#specifying-icons)
@@ -32,14 +31,9 @@
 - [Centering Icons](#centering-icons)
 - [Icons List](#icons-list)
   - [💖 Support the Project](#-support-the-project)
-=======
-> [!NOTE]
-> To keep icons consistent and to ensure browser support, we don't accept pull requests for icon submissions. If you would like an icon added, please open an issue.
->>>>>>> 83030975692618d2f3825915e37bbe0fb73addda
 
 <br>
 
-<<<<<<< HEAD
 <p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" src="./.github/example-light.png#gh-light-mode-only"/></p>
 
@@ -209,12 +203,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `gherkin`      |    <img src="./icons/Gherkin-Dark.svg" width="48">    |
 |      `gmail`       |    <img src="./icons/Gmail.svg" width="48">           |
 |        `go`        |       <img src="./icons/GoLang.svg" width="48">       |
-<<<<<<< HEAD
-|      `goland`      |    <img src="./icons/GoLand-Dark.svg" width="48">     |
-|       `gas`        |<img src="./icons/GoogleAppsScript-Dark.svg" width="48">|
-=======
 |      `gradio`      |    <img src="./icons/Gradio-Dark.svg" width="48">     |
->>>>>>> 77808d0fd81290626e2bca793ee4ead19f80f316
 |      `gradle`      |    <img src="./icons/Gradle-Dark.svg" width="48">     |
 |      `godot`       |     <img src="./icons/Godot-Dark.svg" width="48">     |
 |  `googleanalytics` |<img src="./icons/GoogleAnalytics-Dark.svg" width="48">|
@@ -252,11 +241,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `kotlin`      |    <img src="./icons/Kotlin-Dark.svg" width="48">     |
 |       `ktor`       |     <img src="./icons/Ktor-Dark.svg" width="48">      |
 |    `kubernetes`    |     <img src="./icons/Kubernetes.svg" width="48">     |
-<<<<<<< HEAD
-|     `lambda`       |    <img src="./icons/Lambda-Dark.svg" width="48">     |
-=======
 |    `langchain`     |   <img src="./icons/Langchain-Dark.svg" width="48">   |
->>>>>>> 77808d0fd81290626e2bca793ee4ead19f80f316
 |     `laravel`      |    <img src="./icons/Laravel-Dark.svg" width="48">    |
 |      `latex`       |     <img src="./icons/LaTeX-Dark.svg" width="48">     |
 |       `less`       |     <img src="./icons/Less-Dark.svg" width="48">      |
@@ -272,11 +257,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `materialui`    |  <img src="./icons/MaterialUI-Dark.svg" width="48">   |
 |     `metalapi`     |       <img src="./icons/MetalAPI.svg" width="48">     |
 |      `matlab`      |    <img src="./icons/Matlab-Dark.svg" width="48">     |
-<<<<<<< HEAD
-|    `materialize`   |  <img src="./icons/Materialize-Dark.svg" width="48">  |
-=======
 |    `matplotlib`    |   <img src="./icons/Matplotlib-Dark.svg" width="48">  |
->>>>>>> 77808d0fd81290626e2bca793ee4ead19f80f316
 |      `maven`       |     <img src="./icons/Maven-Dark.svg" width="48">     |
 |     `meteor`       |    <img src="./icons/Meteor-Dark.svg" width="48">     |
 |     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
@@ -295,11 +276,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `nix`        |      <img src="./icons/Nix-Dark.svg" width="48">      |
 |      `nodejs`      |    <img src="./icons/NodeJS-Dark.svg" width="48">     |
 |      `notion`      |    <img src="./icons/Notion-Dark.svg" width="48">     |
-<<<<<<< HEAD
-=======
 |       `npm`        |      <img src="./icons/Npm-Dark.svg" width="48">      |
 |      `numpy`       |     <img src="./icons/Numpy-Dark.svg" width="48">     |
->>>>>>> 77808d0fd81290626e2bca793ee4ead19f80f316
 |      `nuxtjs`      |    <img src="./icons/NuxtJS-Dark.svg" width="48">     |
 |     `obsidian`     |   <img src="./icons/Obsidian-Dark.svg" width="48">    |
 |      `ocaml`       |       <img src="./icons/OCaml.svg" width="48">        |
@@ -311,11 +289,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `openshift`     |     <img src="./icons/OpenShift.svg" width="48">      |
 |    `openstack`     |   <img src="./icons/OpenStack-Dark.svg" width="48">   |
 |       `p5js`       |        <img src="./icons/p5js.svg" width="48">        |
-<<<<<<< HEAD
-|      `pandas`      |       <img src="./icons/Pandas.svg" width="48">       |
-=======
 |      `pandas`      |     <img src="./icons/Pandas-Dark.svg" width="48">    |
->>>>>>> 77808d0fd81290626e2bca793ee4ead19f80f316
 |       `perl`       |        <img src="./icons/Perl.svg" width="48">        |
 |       `p5js`       |     <img src="./icons/P5JS-Dark.svg" width="48">      |
 |        `ps`        |     <img src="./icons/Photoshop.svg" width="48">      |
@@ -378,11 +352,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `spyder`       |    <img src="./icons/Spyder.svg" width="48">          |
 |      `sqlite`      |       <img src="./icons/SQLite.svg" width="48">       |
 |  `stackoverflow`   | <img src="./icons/StackOverflow-Dark.svg" width="48"> |
-<<<<<<< HEAD
-|    `streamlit`     |   <img src="./icons/Streamlit-Dark.svg" width="48">   |
-=======
 |    `storybook`     |    <img src="./icons/StoryBook-Dark.svg" width="48">  |
->>>>>>> d8db37795f4578304c67e4f17d5549871c2c2246
 | `styledcomponents` |  <img src="./icons/StyledComponents.svg" width="48">  |
 |     `sublime`      |    <img src="./icons/Sublime-Dark.svg" width="48">    |
 |    `storybook`     |      <img src="./icons/Storybook-Dark.svg" width="48">     |
@@ -459,4 +429,3 @@ To support the project directly, feel free to open issues for icon suggestions, 
     <a href='https://ko-fi.com/Q5Q860KQ2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
   </p>
 </div>
->>>>>>> 83030975692618d2f3825915e37bbe0fb73addda

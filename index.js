@@ -43,25 +43,6 @@ const shortNames = {
   rxjs: 'reactivex',
   rxjava: 'reactivex',
   ghactions: 'githubactions',
-<<<<<<< HEAD
-  bulma: 'bulmacss',
-  fcad: 'freecad',
-  id: 'indesign',
-  sklearn: 'scikitlearn',
-  gr : 'gradio',
-  st : 'streamlit',
-  np : 'numpy',
-  pd : 'pandas',
-  plt : 'matplotlib',
-  langchain : 'langchain',
-  vb: 'vb'
-  preact: 'preact',
-  ml5: 'ml5',
-  hydrogen: 'hydrogen',
-<<<<<<< HEAD
-  es: 'elasticsearch',
-  gas: 'googleappsscript',
-=======
   cy: 'cypress',
   in: 'indesign',
   jira: 'jira',
@@ -69,10 +50,7 @@ const shortNames = {
   pinia: 'pinia',
   slack: 'slack',
   x: 'x',
->>>>>>> cea92a2a7aead5195146fa293c79c2471c6281f7
-=======
   shopify: 'shopify',
->>>>>>> b41d94bb8ddc05e80ccd636eeb4259abc5d09910
 };
 const themedIcons = [
   ...Object.keys(icons)
